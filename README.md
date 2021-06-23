@@ -23,6 +23,8 @@ docker compose exec python3 bash
 python opt/sample.py
 ```
 
+しかし`opt/`といちいち打つのはめんどくさいので、`opt`に移動してから`python sample.py`のほうが楽かもしれません
+
 ### コンテナ終了
 
 ```
