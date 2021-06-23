@@ -8,7 +8,7 @@
 ### 起動
 
 ```
-docker compose up -d
+docker-compose up -d --build
 ```
 
 ### コンテナの中に入る
