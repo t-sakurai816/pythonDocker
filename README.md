@@ -1,6 +1,7 @@
 # pythonDocker
 
-最新版のPython3環境が使えます。
+最新版のPython3環境が使えます。  
+使い方のメモは[Wiki](https://github.com/t-sakurai816/pythonDocker.wiki.git)にかきました。
 
 ## コマンドメモ
 
